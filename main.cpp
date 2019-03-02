@@ -1,8 +1,6 @@
 /**
- * Copyright 2018 Alin-Andrei Georgescu (alinandrei2007@yahoo.com)
- * 312 CA
- * Tema 2 - Hit the Road
- * 
+ * Copyright 2018
+ *
  * Fișierul principal
  */
 
