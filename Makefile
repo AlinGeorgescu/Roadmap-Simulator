@@ -1,6 +1,3 @@
-# Makefile Tema 2 SD
-# Georgescu Alin-Andrei
-# 312CA
 .PHONY: build run pack clean
 
 # Compiler
